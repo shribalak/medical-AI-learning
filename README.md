@@ -1,1 +1,1 @@
-# medical-AI-learning
+# medical-ai-learning
